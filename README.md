@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 >A person who knows a ✨little✨ about everything.
 
-- 🔭 I’m currently learning **Blockchain, DRL, NLP and more**
+- 🔭 I’m currently learning **Blockchain, DRL, NLP, Federated Learning and more**
 
-- 👯 I have worked in **Embedded Software Development**
+- 👯 I have worked on **Embedded Software Development**
 
-- 📫 I do research in the field of **Networks and Distributed Systems**
+- 📫 I do research in the field of **Blockchain and Machine Learning**
 
 - ⚡ Contact me via [Home](https://zanez.top)|[E-mail](mailto:zanezii@foxmail.com)
 
