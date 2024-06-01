@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 📫 I do research in the field of **Blockchain and Machine Learning**
 
-- ⚡ Contact me via [Home](https://zanez.top)|[E-mail](mailto:zanezii@foxmail.com)
+- ⚡ Contact me via [Home](https://zanez.top)|[E-mail](mailto:zzihang@foxmail.com)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zanezii&show_icons=true&locale=en&layout=compact" alt="zanezii" /></p>
 
