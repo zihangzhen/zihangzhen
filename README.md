@@ -1,5 +1,5 @@
 <!--
-**zanezii/zanezii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zihangzhen/zihangzhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,14 +17,12 @@ Here are some ideas to get you started:
 
 >A person who knows a ✨little✨ about everything.
 
-- 🔭 I’m currently learning **Blockchain, DRL, NLP, Federated Learning and more**
+- 📫 I do research in the field of **Recommendation system, LLM and Blockchain**
 
 - 👯 I have worked on **Embedded Software Development**
 
-- 📫 I do research in the field of **Blockchain and Machine Learning**
-
 - ⚡ Contact me via [Home](https://zanez.top)|[E-mail](mailto:zzihang@foxmail.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zanezii&show_icons=true&locale=en&layout=compact" alt="zanezii" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zihangzhen&show_icons=true&locale=en&layout=compact" alt="zihangzhen" /></p>
 
 
